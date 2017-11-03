@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "image": "./../../images/accidental.jpg",
+    "title": "The Accidental American",
+    "author": "James Naughtie",
+    "subTitle": "Tony Blair And The Presidency",
+    "shortDesc": "Fully revised and updated",
+    "price": 6.5,
+    "publisher": "Pan Books / Pan Macmillan Ltd.",
+    "longDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam mi eros, dapibus sed enim id, auctor bibendum augue. Donec eros metus, sagittis a libero sed, suscipit placerat metus.",
+    "cover": "Paperback",
+    "language": "English",
+    "isbn": "9781405052979"
+  },
+  {
+    "id": 2,
+    "image": "./../../images/statecraft.jpg",
+    "title": "Statecraft",
+    "author": "Margaret Thatcher",
+    "subTitle": "Strategies foe a changing world",
+    "shortDesc": "Collection of speeches and articles",
+    "price": 7,
+    "publisher": "HarperCollins",
+    "longDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam mi eros, dapibus sed enim id, auctor bibendum augue. Donec eros metus, sagittis a libero sed, suscipit placerat metus.",
+    "cover": "Hardcover",
+    "language": "English",
+    "isbn": "0007150644"
+  },
+  {
+    "id": 3,
+    "image": "./../../images/number10.jpg",
+    "title": "Number Ten",
+    "author": "Sue Townsend",
+    "subTitle": "The most famous address",
+    "shortDesc": "Hilarious novel by S. Townsend",
+    "price": 7.5,
+    "publisher": "Michael Joseph / Penguin Books",
+    "longDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam mi eros, dapibus sed enim id, auctor bibendum augue. Donec eros metus, sagittis a libero sed, suscipit placerat metus.",
+    "cover": "Hardback",
+    "language": "English",
+    "isbn": "071814368X"
+  },
+  {
+    "id": 4,
+    "image": "./../../images/ontsnapt.jpg",
+    "title": "Ontsnapt",
+    "author": "Bert Panhuise",
+    "subTitle": "De wonderlijke bevrijding van een avonturier",
+    "shortDesc": "Ontsnapt is de ontroerende levensverhaal van Bert Panhuise",
+    "price": 8,
+    "publisher": "Galilee Media",
+    "longDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam mi eros, dapibus sed enim id, auctor bibendum augue. Donec eros metus, sagittis a libero sed, suscipit placerat metus.",
+    "cover": "Paperback",
+    "language": "Dutch",
+    "isbn": "9077607824"
+  }
+]
