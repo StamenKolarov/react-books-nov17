@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "bookid": 1,
+    "image": "./../../images/accidental.jpg",
+    "title": "The Accidental American",
+    "author": "James Naughtie",
+    "price": 1,
+    "quantity": 1
+  },
+  {
+    "id": 2,
+    "bookid": 2,
+    "image": "./../../images/statecraft.jpg",
+    "title": "Statecraft",
+    "author": "Margaret Thatcher",
+    "price": 5,
+    "quantity": 1
+  },
+  {
+    "id": 3,
+    "bookid": 3,
+    "image": "./../../images/number10.jpg",
+    "title": "Number Ten",
+    "author": "Sue Townsend",
+    "price": 20,
+    "quantity": 1
+  }
+]

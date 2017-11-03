@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "jscs": "^3.0.7",
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0",
+    "react-currency-formatter": "^1.0.0",
+    "react-dom": "^16.0.0",
+    "react-scripts": "1.0.14"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
